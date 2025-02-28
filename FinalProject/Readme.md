@@ -16,8 +16,8 @@ Below is an example of an image generated using the original method. The output 
 
 ![Original Method](original_method.png)
 
-### Improved Method
-Here’s an example of an image generated using the improved method. Notice the enhanced image structure and higher quality compared to the original model.
+### Improved Method ([Code](https://github.com/curioserve/USD3))
+Here's an example of an image generated using the improved method. Notice the enhanced image structure and higher quality compared to the original model.
 
 ![Improved Model](Improved_model_samples_10EP.png)
 
