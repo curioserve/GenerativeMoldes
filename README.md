@@ -1,32 +1,11 @@
-# Generative models - course
-course project for the Generative Models class at Sharif University of Technology Under the guidance of Dr. Seyed Salleh.
-django-channels-chat(base) ali@Alis-MBP-3 GenerativeMoldes % tree -L 3
-.
-├── Autoregressive-models
-│   ├── Pixel-cnn
-│   │   ├── PixelCNN.ipynb
-│   │   └── Readme.md
-│   └── Transformer
-│       ├── Readme.md
-│       ├── textGenerationTransformers.ipynb
-│       └── transformer.py
-├── Diffusion
-│   ├── ContiniousDiffsuion.ipynb
-│   ├── Readme.md
-│   └── generated_sample.png
-├── EBM
-│   ├── EBM_MNIST.ipynb
-│   └── NormalizingFlows.ipynb
-├── README.md
-├── VAE
-│   ├── BetaVAE
-│   │   ├── Readme.md
-│   │   └── beta-vae.ipynb
-│   └── pix2pix
-│       ├── README.md
-│       ├── loss_curves.png
-│       ├── output_images
-│       └── pix2pix.ipynb
-└── markov-random-field-denoising
-    ├── Readme.md
-    └── denoising_mrf.ipynb
+# Generative Models Course Project  
+This repository contains generative model implementations for the Generative Models course at Sharif University of Technology, taught by Dr. Seyed Sallehi.
+
+## Project Structure  
+- **Autoregressive Models**: PixelCNN, Transformer for image and text generation.
+- **Diffusion Models**: Continuous diffusion implementation and samples.  
+- **EBM**: EBM for MNIST and Normalizing Flows.
+- **Final Project**: Improved discrete and continuous-time denoising diffusion. Includes training results and comparison with the original method.
+- **VAE**: BetaVAE and Pix2Pix for image generation and translation.
+- **Markov Random Field Denoising**: Image denoising using MRF.
+
