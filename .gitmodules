@@ -1,0 +1,6 @@
+[submodule "VAE/VAE/pix2pix"]
+	path = VAE/VAE/pix2pix
+	url = https://github.com/curioserve/pix2pix
+[submodule "VAE/pix2pix"]
+	path = VAE/pix2pix
+	url = https://github.com/curioserve/pix2pix
