@@ -1,5 +1,5 @@
 # Improved Denoising Diffusion for Image Data  
-This project enhances the method introduced in the paper [*Improving and Unifying Discrete-time and Continuous-time Discrete Denoising Diffusion*](https://arxiv.org/abs/2104.09478) by Lingxiao Zhao et al., specifically by modifying the transition function to make it more suitable for training on image data.
+This project enhances the method introduced in the paper [*Improving and Unifying Discrete-time and Continuous-time Discrete Denoising Diffusion*](https://arxiv.org/pdf/2402.03701) by Lingxiao Zhao et al., specifically by modifying the transition function to make it more suitable for training on image data.
 
 ## Key Improvements  
 - **Modified Transition Function**: The original transition function was adjusted to better preserve image structure during the diffusion process.
